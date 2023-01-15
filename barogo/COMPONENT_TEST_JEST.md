@@ -63,6 +63,6 @@
 
 # 테스트 동작 스크린샷
 
-![테스트 스크린샷](../assets/barogo__jest_test_run.mov)
+![테스트 스크린샷](../assets/barogo__jest_test_run.gif)
 
 10배속으로 플레이됩니다. 실제 걸린 시간은 약 1분입니다.
