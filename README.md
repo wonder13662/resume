@@ -20,6 +20,7 @@
 - SCSS
 - Jest
 - GraphQL
+- Socket.io
 - RESTful API
 - POSTMAN
 
