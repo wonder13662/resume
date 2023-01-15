@@ -61,9 +61,9 @@
 ### 배송 서비스의 배송 통합 관제 기능 강화
 
 - 통합관제 통계데이터 표시 및 연결되는 세부배송 화면 구현을 함으로써 전체적인 배송상황을 빠르게 파악할 수 있음
-    - [통합관제](./barogo/CONTROL_ROOM.md)
+    - [📊통합관제](./barogo/CONTROL_ROOM.md)
 - 일반 문의 CS 티켓과 배송 문의 CS 티켓 구현
-    - [CS티켓 플로우](./barogo/CSTICKET_FLOW.md)
+    - [🎟️CS티켓 플로우](./barogo/CSTICKET_FLOW.md)
     - [배차지연 - 블랙드라이버 배차](./barogo/GRAB_DELAY.md)
     - [배차취소](./barogo/CANCEL_DELIVERY.md)
 - 기간할증과 지역그룹을 연동하여 기간할증 또는 지역그룹의 상태가 변경되면 소켓으로 메시지를 받아 연동하여 표시
