@@ -64,7 +64,7 @@
     - [📊통합관제](./barogo/CONTROL_ROOM.md)
 - 일반 문의 CS 티켓과 배송 문의 CS 티켓 구현
     - [🎟️CS티켓 플로우](./barogo/CSTICKET_FLOW.md)
-    - [배차지연 - 블랙드라이버 배차](./barogo/GRAB_DELAY.md)
+    - [🎣배차지연 - 블랙드라이버 배차](./barogo/GRAB_DELAY.md)
     - [배차취소](./barogo/CANCEL_DELIVERY.md)
 - 기간할증과 지역그룹을 연동하여 기간할증 또는 지역그룹의 상태가 변경되면 소켓으로 메시지를 받아 연동하여 표시
     - [기간할증 플로우](./barogo/PERIOD_OPTION_FEE_TYPE.md)
