@@ -35,15 +35,15 @@
 
 ## #3 🐣테크니컬 리더십의 성장🐣 멘토링 대상인턴 5명중 4명 정사원 입사
 
-[인턴쉽 멘토링 참여](./barogo/INTERNSHIP_MENTORING.md)
+[🐣인턴쉽 멘토링 참여](./barogo/INTERNSHIP_MENTORING.md)
 
 ## #4 🗺️네이버 지도 Api + H3 공용 모듈🗺️ 팀을 넘어 R&D 그룹이 함께 쓴다
 
-[NaverMap 모듈화](./barogo/NAVER_MAP_MODULE.md) 
+[🗺️NaverMap 모듈화](./barogo/NAVER_MAP_MODULE.md) 
 
 ## #5 🎲회귀테스트도 자동화한다🎲 Jest 기반 시나리오 테스트
 
-[Component test:Jest](./barogo/COMPONENT_TEST_JEST.md) 
+[🎲Component test:Jest](./barogo/COMPONENT_TEST_JEST.md) 
 
 ## #6 🏆 팀 프로젝트 커밋 챔피언 🏆
 
@@ -74,7 +74,7 @@
 
 - 배송과 세부배송의 마감, 정산 정보 조회 구현
 - Admin 지갑에서 입금, 송금 Api 연동
-    - [Wallet 공통 컴포넌트](./barogo/WALLET_COMPONENT.md)
+    - [👛Wallet 공통 컴포넌트](./barogo/WALLET_COMPONENT.md)
 - 본사(바로고) 지갑의 상세 정보 페이지 구현
 - 정산처리 결과페이지 추가
 - 배송과 세부배송의 일괄 강제마감, 강제정산 기능 추가
