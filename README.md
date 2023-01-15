@@ -198,14 +198,23 @@
 - SVN
 
 ### 카페클래스 웹 프로토타입 제작
+- 로그인 페이지
 
 ![로그인](./assets/cafeclass__000_login.jpeg)
 
+- 선생님 등록 페이지
+
 ![강사등록페이지](./assets/cafeclass__001_tutor_registration.jpeg)
+
+- 수업상세 페이지(수업장소)
 
 ![수업상세 페이지](./assets/cafeclass__002_class_information.jpeg)
 
+- 수업상세 페이지(수업정보)
+
 ![수업상세 페이지](./assets/cafeclass__003_class_information.jpeg)
+
+- 수업 목록
 
 ![수업 목록](./assets/cafeclass__004_admin.jpeg)
 
