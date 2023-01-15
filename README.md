@@ -67,7 +67,7 @@
     - [🎣배차지연 - 블랙드라이버 배차](./barogo/GRAB_DELAY.md)
     - [🛺배차취소](./barogo/CANCEL_DELIVERY.md)
 - 기간할증과 지역그룹을 연동하여 기간할증 또는 지역그룹의 상태가 변경되면 소켓으로 메시지를 받아 연동하여 표시
-    - [기간할증 플로우](./barogo/PERIOD_OPTION_FEE_TYPE.md)
+    - [🪙기간할증 플로우](./barogo/PERIOD_OPTION_FEE_TYPE.md)
 - 공지사항의 CRUD 구현
 
 ### 배송 서비스의 정산 기능 구현
